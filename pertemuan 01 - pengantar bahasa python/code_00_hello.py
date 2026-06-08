@@ -1,5 +1,7 @@
-# PROGRAM hello.py
+# PROGRAM Hello.py
 
 # ALGORITMA
 if __name__ == "__main__":
-    print("Hello World")
+    
+  # keluaran program
+  print("Hello World")
