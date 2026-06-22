@@ -26,5 +26,3 @@ with col_sidebar:
             label="Submit Process",
             type="primary",
         )
-    
-    # 
